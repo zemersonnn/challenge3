@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------
+86 months
+net total amt of profits and losses = 22564198
+The changes in profits/losses then the average of those changes = -8311.11
+The greatest increase = Aug-16 $1862002
+The greatest decrease = Feb-14 $-1825558
